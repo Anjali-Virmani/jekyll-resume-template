@@ -1,12 +1,12 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
-name:          "Code Comm"
+name:          "Anjali Virmani"
 summary:       "This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself"
 image:         "avatar.jpg"
 avatar:        "true"
 title:         "Nimbus Inspector"
-contact_email: "codecomm@youremailaddress.com"
-contact_info:  "742 Evergreen Terrace, Smurf field | 555-7334 | codecomm@youremailaddress.com"
+contact_email: "avanjalivirmani@gmail.com"
+contact_info:  "Rohtak | 555-7334 | avanjalivirmani@gmail.com"
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
